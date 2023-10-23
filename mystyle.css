@@ -5,12 +5,11 @@
 *{ margin: 0; 
    padding:0;}
 
-.body { font-family:'sans serif'; background-color:  bisque (197, 126, 18);}
-.img { display: flex;margin-left: auto;margin-right: auto; width:20%; margin-bottom: 20px; margin-top: 20px;/*ukuran gambar*/}
+body { font-family:'sans serif'; background-color:  bisque (197, 126, 18);}
+img { display: flex;margin-left: auto;margin-right: auto; width:20%; margin-bottom: 20px; margin-top: 20px;/*ukuran gambar*/}
 
 
-.head1 {border-radius: 10px;
-    background-color:bisque (197, 126, 18);
+.head1 {border-radius: 10px; bisque (197, 126, 18);
     color: black;
     text-align: center;
     margin-left: 2%;
