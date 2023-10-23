@@ -15,7 +15,7 @@ img { display: flex;margin-left: auto;margin-right: auto; width:20%; margin-bott
     margin-left: 2%;
     margin-right: 2%;}
 
-.p { background-color: rgb(255, 228, 196);
+p { background-color: rgb(255, 228, 196);
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: justify;
