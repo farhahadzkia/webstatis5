@@ -9,8 +9,8 @@ body { font-family:' sans-serif'; background-color:  bisque (197, 126, 18);}
 img { display: flex;margin-left: auto;margin-right: auto; width:20%; margin-bottom: 20px; margin-top: 20px;/*ukuran gambar*/}
 
 
-.head1 {border-radius: 10px; background-color:  rgb(255, 228, 196);
-    color: black;
+.head1 {border-radius: 10px; background-color:   rgb(155, 96, 24);
+    color: white;
     text-align: center;
     margin-left: 2%;
     margin-right: 2%;}
