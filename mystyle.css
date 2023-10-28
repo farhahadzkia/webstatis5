@@ -10,8 +10,8 @@ img { display: flex;margin-left: auto;margin-right: auto; width:20%; margin-bott
 
 
 .head1 {border-radius:10px;
-        background-color::rgb(255, 218, 224);
-        color: black;
+        background-color:rgb(255, 218, 224);
+        color:black;
     text-align: center;
     margin-left: 2%;
     margin-right: 2%;}
