@@ -42,11 +42,12 @@ p { background-color: rgb(255, 228, 196);
     .oleh {text-align: center;
         background-color: rgb(255, 244, 230) ;
         text-align:left        ;
-        padding-top: 50px;
+        padding-top: 10px;
         padding-right: 30px;
-        padding-bottom: 50px;
+        padding-bottom: 10px;
         padding-left: 80px;
         background size : 1px;
+            margin-top: 30px;
         border: 5px solid pink ; margin top: 30% }
        
    
