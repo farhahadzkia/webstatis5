@@ -50,14 +50,13 @@ p { background-color: rgb(255, 228, 196);
         border: 7px solid pink ; }
        
    
-        .back { min-height: 100vh;
-    display: flex;
-    align-items: center;
-    background-image: url("tugas6/arari.webp");
-    background-repeat: no-repeat;
+        .back {
+    background-image: url(tugas6/arari.webp);
     background-size: cover;
-    background-position: center;
-    position: relative;}
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
 
              
 
